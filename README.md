@@ -1,8 +1,5 @@
 # Lab-1 Git Repository Seed
 # Ernest Makaika
 
-I used this file in the first lab in Ashesi Web Development 2020.
-
 ## Contents
-
-## Using the file
+The main file in this repository is index.html. It contains an HTML webpage for Ernest Makaika's portfolio.
